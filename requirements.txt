@@ -1,0 +1,2 @@
+openpyxl>=3.1.2
+ttkbootstrap>=2.2.3

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Build / packaging
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Local app data
+artifacts/
+*.zip
+labmarcos_data.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
